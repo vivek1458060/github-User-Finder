@@ -1,0 +1,28 @@
+.navbar-primary {
+    background-color: #563D7C;
+    color: white;
+}
+
+.badge-primary {
+    background-color: #007BFF;
+}
+
+.badge-warning {
+    background-color: #FFC107;
+}
+
+.badge-success {
+    background-color: #28A745;
+}
+
+.badge-danger {
+    background-color: #DC3545;
+}
+
+.badge-info {
+    background-color: #17A2B8;
+}
+
+.badge-dark {
+    background-color: #343A40;
+}
